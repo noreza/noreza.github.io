@@ -1,3 +1,2 @@
 # noreza.github.io
-blog
-blogです
+nothing to tell you.
