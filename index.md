@@ -7,5 +7,5 @@ layout: default
 # 4組の試験対策 
  
 ## GORILLA
-<a href="unit1.html">Unit 1</a>
+<a href="gorilla/unit1.html">Unit 1</a>
 
